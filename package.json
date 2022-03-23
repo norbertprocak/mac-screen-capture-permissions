@@ -18,7 +18,7 @@
     "install": "prebuild-install || node install.js"
   },
   "dependencies": {
-    "electron-util": "^0.13.0",
+    "electron-util": "github:livechat/electron-util",
     "execa": "^2.0.4",
     "macos-version": "^5.2.1",
     "prebuild-install": "^6.0.0"
